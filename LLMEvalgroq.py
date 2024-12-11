@@ -21,6 +21,7 @@ def clean_description(text):
 
     Input text: "{text}"
     Output text: the cleaned text output
+    just return
     """
 
     try:
